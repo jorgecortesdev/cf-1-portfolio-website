@@ -1,2 +1,2 @@
 # cf-1-portfolio-website
-HTML structure example
+Basic example of an HTML structure.
